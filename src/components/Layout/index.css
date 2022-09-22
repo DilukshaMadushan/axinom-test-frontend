@@ -1,0 +1,15 @@
+.contentContainer {
+  display: flex;
+  flex-direction: row;
+  min-height: 700px;
+}
+
+.leftNavContainer {
+  width: 20%;
+  background-color: #303030;
+}
+
+.mainDiv {
+  width: 80%;
+  background-color: #ffffff;
+}

@@ -1,0 +1,23 @@
+.uploadCardContainer {
+  min-height: 80px;
+  background-color: #f6f6f6;
+  margin: 30px;
+  border-radius: 10px;
+  box-shadow: 3px 5px 6px #888888;
+  padding: 15px;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.uploadCardContainer h2 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.uploadCardContainer h3 {
+  margin: 0;
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: 400;
+}

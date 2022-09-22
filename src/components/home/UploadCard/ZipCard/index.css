@@ -1,0 +1,27 @@
+.zipCard {
+  min-height: 50px;
+  border: 1px solid gray;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 2px 3px #888888;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.zipCard h2 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.zipCard h3 {
+  margin: 0;
+  margin-top: 5px;
+  font-size: 12px;
+  font-weight: 400;
+  margin-left: 10px;
+}

@@ -1,0 +1,15 @@
+.homeContainer {
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.homeContainer h1 {
+  font-size: 30px;
+  color: black;
+  margin: 0;
+  padding: 30px;
+}
+
+.uploadsContainer {
+  /* padding: 30px; */
+}
